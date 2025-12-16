@@ -131,6 +131,3 @@ En executar el programa s'obtindrà:
 9
 10
 ```
-## Autor
-
-Codi educatiu per aprendre recursivitat en C#.
